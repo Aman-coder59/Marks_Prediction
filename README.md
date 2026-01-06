@@ -1,2 +1,2 @@
 # Marks_Prediction
-This is for prediction marks according to your studied hour
+This is for predicting marks according to your studied hour
